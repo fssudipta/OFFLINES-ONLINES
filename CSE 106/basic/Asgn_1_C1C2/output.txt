@@ -1,0 +1,5 @@
+5
+32
+invalid input
+second largest element not found
+-2

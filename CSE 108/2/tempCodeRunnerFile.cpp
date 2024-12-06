@@ -1,0 +1,1 @@
+delete triangles[i];cout<<"gaya"<<endl;
